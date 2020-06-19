@@ -1,8 +1,8 @@
-# google_book_demo
+# download_google_book_sample
 
 经常能从google book中查找到优质资源，尤其是繁体版本的书。
 
-虽然google只是展示了一部分，但也能缓解一些饥渴。
+虽然google没有显示全部，但也展示了相当多页，
 
 购买繁体书不易，google is amazing！！
 
